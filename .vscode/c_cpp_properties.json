@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/DPP/include"
+                "/DPP/include/dpp"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/g++-12",
