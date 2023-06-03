@@ -1,5 +1,5 @@
 {
-	"C_Cpp.errorSquiggles": "Disabled",
+	"C_Cpp.errorSquiggles": "enabled",
 	"cmake.configureOnOpen": true,
 	"files.associations": {
 		"functional": "cpp",
